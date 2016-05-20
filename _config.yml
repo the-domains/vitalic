@@ -1,14 +1,14 @@
-layout_spectrum: 0.4640399878844619
+layout_spectrum: 0.03356686234474182
 typography_spectrum: 0.5711389426141977
 color:
-  brandStrength: 0.7183024012483656
-  lightness: 0.9661508772987872
-  saturation: 0.7152846865355968
-  rhythmicContrast: 0.6018613015767187
+  brandStrength: 0.2475350529421121
+  lightness: 0.9404570658225566
+  saturation: 0.290473454631865
+  rhythmicContrast: 0.3662852772977203
   brandColors:
-    - '#F6F792'
-    - '#333745'
-    - '#77C4D3'
-    - '#DAEDE2'
-    - '#EA2E49'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: Vitalic
