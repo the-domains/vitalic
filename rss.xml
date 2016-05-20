@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vitalic]]></title>
+        <description><![CDATA[Vitalic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 May 2016 11:30:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vitalic - My Friend Dario (official)]]></title>
+            <description><![CDATA[<article><h1>Vitalic - My Friend Dario (official)</h1><p>"My Friend Dario" from the album "Ok Cowboy". Video directed bu Marco Laguna</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ceedb4d9997af455a7db9cb9f9d18db5419a34e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=F8V8_sIFL9s</link>
+            <guid isPermaLink="false">538d48fc-118a-4aaf-8320-3614e10cc743</guid>
+            <pubDate>Fri, 20 May 2016 11:29:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
