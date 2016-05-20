@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Vitalic]]></title>
         <description><![CDATA[Vitalic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vitalic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 11:30:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 11:30:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vitalic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vitalic - Poney Part 1]]></title>
+            <description><![CDATA[<article><h1>Vitalic - Poney Part 1</h1><p>directed by Pleix</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ce7a5d1fc201df5860198a461f9c8223569bfbd.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=JukJgxLiFLE</link>
+            <guid isPermaLink="false">e0395a38-47a9-4d28-b162-cf4f88bfe6ab</guid>
+            <pubDate>Fri, 20 May 2016 11:30:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vitalic - My Friend Dario (official)]]></title>
             <description><![CDATA[<article><h1>Vitalic - My Friend Dario (official)</h1><p>"My Friend Dario" from the album "Ok Cowboy". Video directed bu Marco Laguna</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ceedb4d9997af455a7db9cb9f9d18db5419a34e.jpg"></article>]]></description>
